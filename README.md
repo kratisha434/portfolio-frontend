@@ -33,7 +33,7 @@ The assistant responds **strictly based on resume data**, ensuring accuracy and 
 
 ## 🌐 Deployment
 
-- **Frontend:** Deployed on Vercel  
+- **Frontend:** Deployed on Vercel  https://portfolio-frontend1-olive.vercel.app/
 - **Backend:** Exposed via Cloudflare Tunnel (secure public access without server hosting)
 
 > Note: Cloudflare tunnel URLs may change between restarts and are intended for demo purposes.
